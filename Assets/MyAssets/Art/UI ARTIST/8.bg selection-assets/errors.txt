@@ -1,0 +1,1 @@
+[2022-6-23 09:59:05] layer "left icon .ppng": Unsupported extension: ppng
